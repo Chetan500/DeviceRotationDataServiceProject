@@ -1,0 +1,4 @@
+include ':devicerotationdataapp'
+include ':DeviceRotationDataSDK'
+include ':app'
+rootProject.name = "DeviceRotationDataService"
